@@ -1,0 +1,21 @@
+{
+  "name": "vowel",
+  "version": "0.0.1",
+  "description": "tiny library for working with vowels",
+  "main": "index.js",
+  "repository": "pacocoursey/vowel",
+  "author": "Paco Coursey <paco@pacocoursey.com> (pacocoursey.com)",
+  "keywords": [
+    "english",
+    "alphabet",
+    "vowel",
+    "consonant",
+    "string"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
