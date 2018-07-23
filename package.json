@@ -1,6 +1,6 @@
 {
   "name": "vowel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tiny library for working with vowels",
   "main": "index.js",
   "repository": "pacocoursey/vowel",
