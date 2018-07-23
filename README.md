@@ -1,4 +1,4 @@
-# Vowel
+# Vowel [![npm version](https://badge.fury.io/js/vowel.svg)](https://badge.fury.io/js/vowel)
 
 Tiny library for working with vowels.
 
