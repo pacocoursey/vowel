@@ -20,8 +20,8 @@ const { isVowel } = vowel;
 isVowel('o');
 //=> true
 
-const { containsVowel } = vowel;
-containsVowel('rhythms');
+const { includesVowel } = vowel;
+includesVowel('rhythms');
 //=> false
 
 const { startsWithVowel } = vowel;

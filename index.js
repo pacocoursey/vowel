@@ -6,7 +6,7 @@ function isVowel(c) {
 
 function includesVowel(s) {
   for (let i = 0; i < s.length; i += 1) {
-    if (module.exports.isVowel(s.charAt(i))) return true;
+    if (isVowel(s.charAt(i))) return true;
   }
   return false;
 }
