@@ -33,6 +33,32 @@ endsWithVowel('persiflage');
 //=> true
 ```
 
+## API
+
+### .vowels
+
+Returns an `array` with a list of vowels.
+
+### .y(`boolean`)
+
+If whether `y` should be included as a vowel.
+
+### .isVowel(`string`)
+
+If string is a single character, returns whether the string is a vowel. If string is longer than a single character, calls `.includesVowel`.
+
+### .includesVowel(`string`)
+
+Returns whether the string includes vowels.
+
+### .startsWithVowel(`string`)
+
+Returns whether the string starts with a vowel.
+
+### .endsWithVowel(`string`)
+
+Returns whether the string ends with a vowel.
+
 #
 
 <p align="center">
